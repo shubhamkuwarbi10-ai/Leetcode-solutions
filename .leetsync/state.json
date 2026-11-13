@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794594832930,
+  "updatedAt": 1794595132896,
   "devices": {
     "97fc831f-2356-4783-be64-da7a80c52c47": {
-      "lastSeen": 1794594832440
+      "lastSeen": 1794595132445
     }
   },
   "problems": {
@@ -24,11 +24,12 @@
         "String"
       ],
       "title": "Reverse Words in a String III",
-      "at": 1794594832440
+      "at": 1794595132445
     }
   },
   "achievements": {
-    "first_blood": 1794573664623
+    "first_blood": 1794573664623,
+    "night_owl": 1794594833950
   },
   "sheets": {},
   "days": [
