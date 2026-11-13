@@ -1,0 +1,47 @@
+{
+  "v": 1,
+  "updatedAt": 1794573832844,
+  "devices": {
+    "97fc831f-2356-4783-be64-da7a80c52c47": {
+      "lastSeen": 1794573832412
+    }
+  },
+  "problems": {
+    "557": {
+      "attempts": 1,
+      "bestMemory": "14.8 MB (Beats 31%)",
+      "bestRuntime": "9 ms (Beats 13%)",
+      "date": "2026-11-13",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-11-13",
+      "folderName": "0557-Reverse-Words-in-a-String-III",
+      "language": "C++",
+      "number": 557,
+      "slug": "reverse-words-in-a-string-iii",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Reverse Words in a String III",
+      "at": 1794573832412
+    }
+  },
+  "achievements": {
+    "first_blood": 1794573664623
+  },
+  "sheets": {},
+  "days": [
+    "2026-11-13"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 1
+  },
+  "identity": {
+    "installId": "7c5048fa-f35c-4396-888d-1670a0ef7251",
+    "at": 1794573532411,
+    "name": "Shubham Singh",
+    "nameAt": 1794573623586
+  }
+}
